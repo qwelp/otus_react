@@ -1,1 +1,1 @@
-# otus_react
+# Обучение Otus React
